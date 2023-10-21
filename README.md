@@ -1,6 +1,6 @@
-# Project Name
+# Contact us form
 
-Contact us form with mail to 
+Contact us form with mail sent to info@redpositive.in
 
 ## Table of Contents
 - [Description](#description)
