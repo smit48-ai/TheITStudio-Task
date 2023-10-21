@@ -50,8 +50,8 @@ nodemon server
 ```
 
 ## Screenshots
-![image1](E:\smit\ContactUs\images\WithError.jpg)
-![image2](E:\smit\ContactUs\images\WithoutError.jpg)
+![image1](images\WithError.jpg)
+![image2](images\WithoutError.jpg)
 
 
 
